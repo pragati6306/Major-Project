@@ -1,4 +1,4 @@
-DEployed on streamlit https://major-project-tyn3mxmuy2xf2tp5qxysxw.streamlit.app/
+Deployed on streamlit https://major-project-tyn3mxmuy2xf2tp5qxysxw.streamlit.app/
 https://major-project-tyn3mxmuy2xf2tp5qxysxw.streamlit.app/
 <img width="2878" height="1410" alt="image" src="https://github.com/user-attachments/assets/bcc99f6f-0ded-4ed3-a5cf-9cf820c897f7" />
 <img width="1897" height="1117" alt="image" src="https://github.com/user-attachments/assets/af211289-bed8-49d6-a2c0-3788acc27b9e" />
